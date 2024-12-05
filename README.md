@@ -38,6 +38,6 @@ click -> http://127.0.0.1:8000/echo
 
 
 ## Note
-現時点(02024/12/05)では Request以外(Response, MiniStarlette本体)はシンプルな作りになっています。
+現時点(2024/12/05)では Request以外(Response, MiniStarlette本体)はシンプルな作りになっています。
 
 今後本家の実装に寄せていきます。
