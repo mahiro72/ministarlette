@@ -1,5 +1,5 @@
 import uvicorn
-from ministarlette.application import MiniStarlette
+from ministarlette.applications import MiniStarlette
 from ministarlette.requests import Request
 
 app = MiniStarlette()
